@@ -1,4 +1,5 @@
-<img width="1817" height="1003" alt="image" src="https://github.com/user-attachments/assets/12486246-7212-49bd-9f2f-3f58b1d662c3" />
+<img width="1788" height="998" alt="image" src="https://github.com/user-attachments/assets/736a17e0-11c0-40f4-8149-a67c1cf62d7f" />
+
 
 # Tech-Studio-Academy-Students-Performance-Analysis
 ## This analysis was performed using power bi
