@@ -38,8 +38,8 @@ Column Name
 	*	Higher attendance and participation generally align with higher final grades.
 	*	Students with lower satisfaction scores tend to have lower performance outcomes.
 	*	Dropped-out students show consistently lower engagent metrics.
-  * With a final grade of 97, Samuel was the top-performing student. His high engagement level, participation, and satisfaction scores contributed to his outstanding performance
-  * Lagos had the highest registered students
-  * Abuja achieved the highest completion rate, with all registered students successfully finishing their courses.
-  * Onsite students did better than online students
+    *   With a final grade of 97, Samuel was the top-performing student. His high engagement level, participation, and satisfaction scores contributed to his outstanding performance
+    *   Lagos had the highest registered students
+    *   Abuja achieved the highest completion rate, with all registered students successfully finishing their courses.
+    *   Onsite students did better than online students
 
