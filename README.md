@@ -88,10 +88,10 @@ Practical exposure reinforces learning effectiveness.
 ### Conclusion
 * The analysis of the student dataset highlights the strong impact of engagement, satisfaction, and practical experience on academic performance and course completion. Key findings include:
 Engagement Matters: Higher attendance, participation, and internship involvement consistently correlate with better final grades and completion rates.
-* Satisfaction Drives Success: *  Students who report higher satisfaction with their courses tend to perform better academically and are more likely to complete their programs.
-Early Intervention is Critical: Students with low engagement metrics are at higher risk of dropping out, emphasizing the need for timely support and mentoring.
-Regional and Mode Differences: Abuja achieved the highest completion rate, while onsite learners generally outperform online learners, suggesting benefits from face-to-face interaction and structured learning environments.
-Practical Experience is Valuable: Participation in internships reinforces learning, improving performance and readiness for professional opportunities.
-Top Performers Set Benchmarks: Exemplary students, such as Samuel, demonstrate how high engagement, participation, and satisfaction translate into academic excellence.
-Overall, the dataset underscores the importance of fostering engagement, satisfaction, and practical learning opportunities to enhance student outcomes. These insights can guide educators, administrators, and policymakers in designing interventions and programs that maximize student success.
+* Satisfaction Drives Success:   Students who report higher satisfaction with their courses tend to perform better academically and are more likely to complete their programs.
+* Early Intervention is Critical: Students with low engagement metrics are at higher risk of dropping out, emphasizing the need for timely support and mentoring.
+* Regional and Mode Differences: Abuja achieved the highest completion rate, while onsite learners generally outperform online learners, suggesting benefits from face-to-face interaction and structured learning environments.
+* Practical Experience is Valuable: Participation in internships reinforces learning, improving performance and readiness for professional opportunities.
+* Top Performers Set Benchmarks: Exemplary students, such as Samuel, demonstrate how high engagement, participation, and satisfaction translate into academic excellence.
+* Overall, the dataset underscores the importance of fostering engagement, satisfaction, and practical learning opportunities to enhance student outcomes. These insights can guide educators, administrators, and policymakers in designing interventions and programs that maximize student success.
 
