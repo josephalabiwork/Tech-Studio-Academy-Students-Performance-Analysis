@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Age,City,Program,Learning_Mode,Attendance_Rate (%),Participation_Score,Internship_Sessions,Satisfaction_Score,Final_Grade (%),Completion_Status,Year
+S001,John,Male,24,Lagos,Data Analytics,Onsite,92,9,5,9,88,Completed,2024
+S002,Mary,Female,22,Abuja,Data Science,Online,85,8,4,8,82,Completed,2024
+S003,David,Male,26,Port Harcourt,Full Stack Dev,Onsite,78,7,3,7,75,Completed,2024
+S004,Amaka,Female,23,Lagos,UI/UX Design,Online,65,6,2,6,68,Dropped,2024
+S005,Tunde,Male,28,Abuja,Data Analytics,Onsite,90,9,6,9,91,Completed,2024
+S006,Chioma,Female,25,Kano,Data Science,Online,72,7,3,8,73,Completed,2024
+S007,Emeka,Male,27,Lagos,Full Stack Dev,Onsite,88,8,5,9,85,Completed,2025
+S008,Grace,Female,24,Ibadan,Data Analytics,Online,60,5,2,5,59,Dropped,2025
+S009,Kelvin,Male,23,Lagos,UI/UX Design,Onsite,94,9,4,9,93,Completed,2025
+S010,Ify,Female,22,Abuja,Data Science,Online,87,8,5,8,86,Completed,2025
+S011,Moses,Male,29,Port Harcourt,Full Stack Dev,Onsite,76,6,3,6,70,Dropped,2025
+S012,Halima,Female,21,Kano,Data Analytics,Online,82,8,4,8,80,Completed,2024
+S013,Samuel,Male,25,Lagos,UI/UX Design,Onsite,95,10,6,10,97,Completed,2025
+S014,Jane,Female,23,Abuja,Data Science,Online,73,7,3,7,75,Completed,2025
+S015,Paul,Male,26,Ibadan,Full Stack Dev,Onsite,84,8,4,9,83,Completed,2024
+S016,Peace,Female,22,Lagos,Data Analytics,Online,70,6,2,6,69,Dropped,2024
+S017,Victor,Male,28,Abuja,Data Science,Onsite,91,9,5,9,92,Completed,2025
+S018,Blessing,Female,24,Port Harcourt,UI/UX Design,Online,80,7,3,8,79,Completed,2025
+S019,Collins,Male,25,Lagos,Full Stack Dev,Onsite,89,8,4,9,88,Completed,2024
+S020,Faith,Female,23,Kano,Data Analytics,Online,77,7,3,8,76,Completed,2025
