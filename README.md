@@ -17,17 +17,17 @@ This project seeks to answer:
 Dataset Overview
 The dataset contains student demographic and engagement attributes:
 Column Name
-* Student_ID                          Unique identifier for each student
-* Name                                Student name
-* Gender                              Male/Female
-* Age                                 Age of student
-* City                                Location of residence
-* Program                              Type of academic program enrolled
-* Learning_Mode                        Online or Onsite learning
-* Attendance_Rate (%)                  Percentage class attendance
-* Participation_Score                   Engagement in class activities (Scale 1–10)
-* Internship_Sessions                   Number of internship practical sessions attended
-* Satisfaction_Score                    Student satisfaction with the learning experience (Scale 1–10)
-* Final_Grade (%)                       Final academic score
-* Completion_Status                     Completed or Dropped out
-* Year                                  Academic session year
+* Student_ID   -                       Unique identifier for each student
+* Name          -                      Student name
+* Gender       -                       Male/Female
+* Age          -                       Age of student
+* City           -                     Location of residence
+* Program          -                    Type of academic program enrolled
+* Learning_Mode      -                  Online or Onsite learning
+* Attendance_Rate (%)     -             Percentage class attendance
+* Participation_Score     -              Engagement in class activities (Scale 1–10)
+* Internship_Sessions    -               Number of internship practical sessions attended
+* Satisfaction_Score     -               Student satisfaction with the learning experience (Scale 1–10)
+* Final_Grade (%)        -               Final academic score
+* Completion_Status      -               Completed or Dropped out
+* Year                   -               Academic session year
