@@ -18,16 +18,11 @@ Dataset Overview
 The dataset contains student demographic and engagement attributes:
 Column Name
 * Student_ID                         * Unique identifier for each student
-Name
-Student name
-Gender
-Male/Female
-Age
-Age of student
-City
-Location of residence
-Program
-Type of academic program enrolled
+* Name                               *  Student name
+* Gender                             * Male/Female
+* Age                                * Age of student
+* City                               * Location of residence
+*Program                             * Type of academic program enrolled
 Learning_Mode
 Online or Onsite learning
 Attendance_Rate (%)
