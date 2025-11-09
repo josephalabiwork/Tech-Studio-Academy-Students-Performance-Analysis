@@ -31,3 +31,15 @@ Column Name
 * Final_Grade (%)        -               Final academic score
 * Completion_Status      -               Completed or Dropped out
 * Year                   -               Academic session year
+
+*  All metrics are intended to provide insights into student engagement and its relationship with performance outcomes.
+
+ ### General Observations
+	*	Higher attendance and participation generally align with higher final grades.
+	*	Students with lower satisfaction scores tend to have lower performance outcomes.
+	*	Dropped-out students show consistently lower engagent metrics.
+  * With a final grade of 97, Samuel was the top-performing student. His high engagement level, participation, and satisfaction scores contributed to his outstanding performance
+  * Lagos had the highest registered students
+  * Abuja achieved the highest completion rate, with all registered students successfully finishing their courses.
+  * Onsite students did better than online students
+
